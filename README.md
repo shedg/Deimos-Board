@@ -43,3 +43,11 @@ The board is populated by just a bunch of throughhole components, some screw ter
   [The component checklist](https://docs.google.com/spreadsheets/d/1y2S4blwJZZ-803kOBqK99VzKAkgP2FpXWgCPjR_RUzY/edit#gid=1386834576) 
 
   [Heater mount i use](https://www.thingiverse.com/thing:4305321)
+	
+	Libraries used:	
+[Ace button 1.8.0](https://github.com/bxparks/AceButton)
+
+[AutoPID 1.0.3](https://r-downing.github.io/AutoPID/)
+
+[NTC Thermistor 2.0.3](https://github.com/YuriiSalimov/NTC_Thermistor)
+	
